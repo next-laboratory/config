@@ -9,7 +9,7 @@ declare(strict_types=1);
  * @license  https://github.com/marxphp/max/blob/master/LICENSE
  */
 
-namespace Max\Config\Contracts;
+namespace Max\Config\Contract;
 
 interface ConfigInterface
 {
